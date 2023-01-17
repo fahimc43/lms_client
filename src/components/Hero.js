@@ -1,4 +1,5 @@
 import React from "react";
+import heroBg from "../image/heroBgnd.png";
 
 function Hero() {
   return (
@@ -34,6 +35,7 @@ function Hero() {
           </div>
         </div>
       </div>
+      <img src={heroBg} alt="" className=" w-full -mt-10" />
     </>
   );
 }

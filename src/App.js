@@ -8,7 +8,7 @@ function App() {
   return (
     <Routes>
       <Route path="/" element={<Home />}>
-        <Route path="whatIs" element={<WhatIsCep />} />
+        <Route path="/" element={<WhatIsCep />} />
         <Route path="revolution" element={<Revolution />} />
         <Route path="importance" element={<Importance />} />
       </Route>

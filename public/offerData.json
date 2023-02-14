@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "class": 15,
+    "time": "06 hrs 30 mnts",
+    "name": "Crisis management effective decision making.",
+    "rating": 5,
+    "instructor": "Instructor : Anthony James",
+    "oldPrice": 20000,
+    "newPrice": 12000
+  },
+  {
+    "id": 2,
+    "class": 15,
+    "time": "06 hrs 30 mnts",
+    "name": "Process safety for petroleum production.",
+    "rating": 5,
+    "instructor": "Instructor : Anthony James",
+    "oldPrice": 20000,
+    "newPrice": 12000
+  },
+  {
+    "id": 3,
+    "class": 15,
+    "time": "06 hrs 30 mnts",
+    "name": "Advance food hygiene training in catering/manufacturing.",
+    "rating": 5,
+    "instructor": "Instructor : Anthony James",
+    "oldPrice": 20000,
+    "newPrice": 12000
+  },
+  {
+    "id": 4,
+    "class": 15,
+    "time": "06 hrs 30 mnts",
+    "name": "Advance accident investigation & reporting.",
+    "rating": 5,
+    "instructor": "Instructor : Anthony James",
+    "oldPrice": 20000,
+    "newPrice": 12000
+  },
+  {
+    "id": 5,
+    "class": 15,
+    "time": "06 hrs 30 mnts",
+    "name": "Accident & incident investigation.",
+    "rating": 5,
+    "instructor": "Instructor : Anthony James",
+    "oldPrice": 20000,
+    "newPrice": 12000
+  },
+  {
+    "id": 6,
+    "class": 15,
+    "time": "06 hrs 30 mnts",
+    "name": "Advance diploma in health & safety.",
+    "rating": 5,
+    "instructor": "Instructor : Anthony James",
+    "oldPrice": 20000,
+    "newPrice": 12000
+  }
+]

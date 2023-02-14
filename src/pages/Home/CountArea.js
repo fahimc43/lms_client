@@ -3,7 +3,7 @@ import stackBooks from "../../image/stackBooks.svg";
 
 function CountArea() {
   return (
-    <>
+    <div>
       <div className="count-area mt-[138px] py-24">
         <div className=" flex container mx-auto -mt-48">
           <img src={stackBooks} alt="" />
@@ -27,7 +27,7 @@ function CountArea() {
           </div>
         </div>
       </div>
-    </>
+    </div>
   );
 }
 

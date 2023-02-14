@@ -6,6 +6,7 @@ import Program from "../../components/Program";
 import training from "../../image/training.png";
 import blogs from "../../image/blogs.png";
 import quizzes from "../../image/quizzes.png";
+import AreaTitle from "../../components/AreaTitle";
 
 function Programs() {
   const programs = [
@@ -44,13 +45,7 @@ function Programs() {
   ];
   return (
     <div>
-      <div className=" flex flex-col items-center justify-center my-20">
-        <h2 className=" font-montserrat font-medium text-4xl">Our Programs</h2>
-        <div className=" flex flex-row mt-2 space-x-2">
-          <img src={leftAng} alt="left" className=" w-52 h-6" />
-          <img src={rightAng} alt="right" className=" w-24 h-6" />
-        </div>
-      </div>
+      <AreaTitle title={"Our Programs"} />
       <div>
         <div className="container px-5 md:px-20 mx-auto">
           <div className="flex flex-wrap -m-4 text-center">

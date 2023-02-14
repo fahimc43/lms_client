@@ -8,6 +8,53 @@
   }
 }
 
+.count-area {
+  width: 100%;
+  height: 457px;
+  left: 0px;
+  top: 927px;
+
+  background: linear-gradient(
+    180deg,
+    rgba(37, 97, 100, 0.2) 0%,
+    rgba(37, 97, 100, 0) 100%
+  );
+}
+
+.count-card {
+  box-sizing: border-box;
+  width: 250px;
+  height: 250px;
+  left: 261px;
+  top: 1031px;
+  border: 1px dashed #256164;
+  border-radius: 20px 0px;
+}
+
+.count-num {
+  width: 154px;
+  height: 90px;
+  font-family: "Bebas Neue";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 64px;
+  line-height: 90px;
+  text-align: center;
+  color: #202020;
+}
+
+.count-name {
+  width: 204px;
+  height: 45px;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 45px;
+  text-align: center;
+  color: #202020;
+}
+
 /* body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',

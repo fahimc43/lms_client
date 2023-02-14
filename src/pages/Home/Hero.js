@@ -1,13 +1,14 @@
 import React from "react";
-import heroBg from "../image/heroBgnd.png";
+import heroBg from "../../image/heroBgnd.png";
+import remoteEducation from "../../image/remoteEducation.svg";
 
 function Hero() {
   return (
     <>
-      <div className=" bg-secondary text-solid-white w-full">
+      <div className=" bg-secondary text-solid-white w-full pb-10 lg:pb-0">
         <div className=" container mx-auto">
           <div className=" flex flex-col justify-center items-center px-20 gap-8 pt-20">
-            <h1 className=" font-anybody font-bold text-5xl">
+            <h1 className=" font-anybody font-bold text-5xl text-center">
               CONTINUOUS EDUCATION PROGRAMME
             </h1>
             <p className=" font-montserrat font-medium text-xl text-center">
@@ -35,7 +36,14 @@ function Hero() {
           </div>
         </div>
       </div>
-      <img src={heroBg} alt="" className=" w-full -mt-10" />
+      <img
+        src={heroBg}
+        alt="heroBg"
+        className=" hidden lg:block lg:w-full lg:-mt-10"
+      />
+      <div className="container flex justify-center -mt-20 lg:justify-end mx-auto lg:-mt-60 ">
+        <img src={remoteEducation} alt="remoteEducation" />
+      </div>
     </>
   );
 }

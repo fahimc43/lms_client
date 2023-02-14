@@ -1,8 +1,8 @@
 import React from "react";
-import choose from "../image/choose.png";
-import expert from "../image/expert.png";
-import solution from "../image/solution.png";
-import update from "../image/update.png";
+import choose from "../../image/choose.png";
+import expert from "../../image/expert.png";
+import solution from "../../image/solution.png";
+import update from "../../image/update.png";
 
 function ChooseUs() {
   return (

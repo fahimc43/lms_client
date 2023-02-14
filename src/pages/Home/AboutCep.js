@@ -1,6 +1,6 @@
 import React from "react";
-import leftAng from "../image/leftAng.png";
-import rightAng from "../image/rightAng.png";
+import leftAng from "../../image/leftAng.png";
+import rightAng from "../../image/rightAng.png";
 import { NavLink, Outlet } from "react-router-dom";
 
 function AboutCep() {

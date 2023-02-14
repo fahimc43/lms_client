@@ -1,19 +1,8 @@
-import { Routes, Route } from "react-router-dom";
-import Importance from "./components/Importance";
-import Revolution from "./components/Revolution";
-import WhatIsCep from "./components/WhatIsCep";
-import Home from "./pages/Home";
+import { RouterProvider } from "react-router-dom";
+import router from "./routes/Routes/Routes";
 
 function App() {
-  return (
-    <Routes>
-      <Route path="/" element={<Home />}>
-        <Route path="/" element={<WhatIsCep />} />
-        <Route path="revolution" element={<Revolution />} />
-        <Route path="importance" element={<Importance />} />
-      </Route>
-    </Routes>
-  );
+  return <RouterProvider router={router}></RouterProvider>;
 }
 
 export default App;

@@ -1,11 +1,11 @@
 import React from "react";
-import leftAng from "../image/leftAng.png";
-import rightAng from "../image/rightAng.png";
-import laptop from "../image/laptop.png";
-import Program from "./Program";
-import training from "../image/training.png";
-import blogs from "../image/blogs.png";
-import quizzes from "../image/quizzes.png";
+import leftAng from "../../image/leftAng.png";
+import rightAng from "../../image/rightAng.png";
+import laptop from "../../image/laptop.png";
+import Program from "../../components/Program";
+import training from "../../image/training.png";
+import blogs from "../../image/blogs.png";
+import quizzes from "../../image/quizzes.png";
 
 function Programs() {
   const programs = [

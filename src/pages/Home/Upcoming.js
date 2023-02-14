@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import line from "../image/line.png";
-import videoBg from "../image/videoBg.png";
+import line from "../../image/line.png";
+import videoBg from "../../image/videoBg.png";
 
 function Upcoming() {
   return (

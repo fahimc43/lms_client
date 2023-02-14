@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "What is CEP",
+    "detail": "Our “Continuous Education Program” was specifically created to provide personnel like safety and health officers, CHRA assessors, hygiene technicians 1, 2, NRA, IAQ assessors, and major hazards competent persons with the opportunity to enhance, enrich, and update their knowledge and skills.",
+    "img": "https://i.ibb.co/2K74Rrf/what-Is-Cep.png"
+  },
+  {
+    "id": 2,
+    "title": "MY CEP Revolution",
+    "detail": "Whatever industry you work in, Safety & Health can represent a grueling challenge with complex issues that change over time in certain fields of the industry. Continuous Education therefore cannot remain static and redundant. MyCEPPoints aims to revolutionise this ever changing program with the help of subject specific experts.",
+    "img": "https://i.ibb.co/MsbVMFy/revolu.png"
+  },
+  {
+    "id": 3,
+    "title": "Importance of CEP",
+    "detail": "It’s mandatory for every Competent Person to be registered with the Malaysian Department of Occupational Safety and Health (DOSH) and renew their license every 3 years or face subsequent suspension. You are required to undergo CEP training and collect CEP points in order to continuously be up to date with the latest trends and developments.",
+    "img": "https://i.ibb.co/qg6mFVJ/importance.png"
+  }
+]

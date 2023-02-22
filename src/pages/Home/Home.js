@@ -4,6 +4,7 @@ import ChooseUs from "./ChooseUs";
 import CountArea from "./CountArea";
 import Hero from "./Hero";
 import Offers from "./Offers";
+import OshTopics from "./OshTopics";
 import Programs from "./Programs";
 import Upcoming from "./Upcoming";
 
@@ -17,6 +18,7 @@ function Home() {
       <ChooseUs />
       <CountArea />
       <Offers />
+      <OshTopics />
     </>
   );
 }

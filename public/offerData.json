@@ -1,62 +1,68 @@
 [
   {
     "id": 1,
-    "class": 15,
+    "classQty": 15,
     "time": "06 hrs 30 mnts",
     "name": "Crisis management effective decision making.",
     "rating": 5,
     "instructor": "Instructor : Anthony James",
     "oldPrice": 20000,
-    "newPrice": 12000
+    "newPrice": 12000,
+    "image": "https://i.ibb.co/0Ff07vr/Rectangle-37.png"
   },
   {
     "id": 2,
-    "class": 15,
+    "classQty": 15,
     "time": "06 hrs 30 mnts",
     "name": "Process safety for petroleum production.",
     "rating": 5,
     "instructor": "Instructor : Anthony James",
     "oldPrice": 20000,
-    "newPrice": 12000
+    "newPrice": 12000,
+    "image": "https://i.ibb.co/0BnqLRQ/Rectangle-38.png"
   },
   {
     "id": 3,
-    "class": 15,
+    "classQty": 15,
     "time": "06 hrs 30 mnts",
     "name": "Advance food hygiene training in catering/manufacturing.",
     "rating": 5,
     "instructor": "Instructor : Anthony James",
     "oldPrice": 20000,
-    "newPrice": 12000
+    "newPrice": 12000,
+    "image": "https://i.ibb.co/jkCWPFL/Rectangle-39.png"
   },
   {
     "id": 4,
-    "class": 15,
+    "classQty": 15,
     "time": "06 hrs 30 mnts",
     "name": "Advance accident investigation & reporting.",
     "rating": 5,
     "instructor": "Instructor : Anthony James",
     "oldPrice": 20000,
-    "newPrice": 12000
+    "newPrice": 12000,
+    "image": "https://i.ibb.co/0CGdLm9/Rectangle-40.png"
   },
   {
     "id": 5,
-    "class": 15,
+    "classQty": 15,
     "time": "06 hrs 30 mnts",
     "name": "Accident & incident investigation.",
     "rating": 5,
     "instructor": "Instructor : Anthony James",
     "oldPrice": 20000,
-    "newPrice": 12000
+    "newPrice": 12000,
+    "image": "https://i.ibb.co/gdZGVDQ/Rectangle-14.png"
   },
   {
     "id": 6,
-    "class": 15,
+    "classQty": 15,
     "time": "06 hrs 30 mnts",
     "name": "Advance diploma in health & safety.",
     "rating": 5,
     "instructor": "Instructor : Anthony James",
     "oldPrice": 20000,
-    "newPrice": 12000
+    "newPrice": 12000,
+    "image": "https://i.ibb.co/Mkw5pKQ/Rectangle-15.png"
   }
 ]

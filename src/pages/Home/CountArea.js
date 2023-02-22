@@ -4,8 +4,8 @@ import stackBooks from "../../image/stackBooks.svg";
 function CountArea() {
   return (
     <div>
-      <div className="count-area mt-[138px] py-24">
-        <div className=" flex container mx-auto -mt-48">
+      <div className="count-area mt-[138px] pt-24 pb-6">
+        <div className="container -mt-48 ml-10">
           <img src={stackBooks} alt="" />
         </div>
         <div className=" container flex flex-wrap -m-4 mx-auto justify-center gap-10 mt-10">

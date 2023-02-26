@@ -3,9 +3,11 @@ import AboutCep from "./AboutCep";
 import ChooseUs from "./ChooseUs";
 import CountArea from "./CountArea";
 import Hero from "./Hero";
+import Instructors from "./Instructors";
 import Offers from "./Offers";
 import OshTopics from "./OshTopics";
 import Programs from "./Programs";
+
 import Upcoming from "./Upcoming";
 
 function Home() {
@@ -19,6 +21,7 @@ function Home() {
       <CountArea />
       <Offers />
       <OshTopics />
+      <Instructors />
     </>
   );
 }

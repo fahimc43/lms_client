@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "Md. Muhaiminul Islam",
+    "surName": "Sr. Product Designer",
+    "detail": "Senior Product Designer at Reflexit Limited",
+    "image": "https://i.ibb.co/6v1FRXm/ellipse-10.png",
+    "rating": 5
+  },
+  {
+    "id": 2,
+    "name": "Lamia Haque Arfi",
+    "surName": "Sr. Product Designer",
+    "detail": "Senior Product Designer at Reflexit Limited",
+    "image": "https://i.ibb.co/JstQwsj/ellipse-12.png",
+    "rating": 5
+  },
+  {
+    "id": 3,
+    "name": "Munzerin Islam Sorna",
+    "surName": "Sr. Product Designer",
+    "detail": "Senior Product Designer at Reflexit Limited",
+    "image": "https://i.ibb.co/6HTL3cY/ellipse-11.png",
+    "rating": 5
+  },
+  {
+    "id": 4,
+    "name": "Md. Muhaiminul Islam",
+    "surName": "Sr. Product Designer",
+    "detail": "Senior Product Designer at Reflexit Limited",
+    "image": "https://i.ibb.co/7KzH6Ld/ellipse-13.png",
+    "rating": 5
+  }
+]

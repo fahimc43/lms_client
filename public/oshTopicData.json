@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "classQty": 15,
+    "time": "06 hrs 30 mnts",
+    "name": "Advance diploma in health & safety.",
+    "instructor": "Instructor : Anthony James",
+    "newPrice": 12000,
+    "image": "https://i.ibb.co/dP775tx/Rectangle-50.png"
+  },
+  {
+    "id": 2,
+    "classQty": 15,
+    "time": "06 hrs 30 mnts",
+    "name": "Advance industrial hygiene training.",
+    "instructor": "Instructor : Anthony James",
+    "newPrice": 12000,
+    "image": "https://i.ibb.co/khDhRx3/Rectangle-51.png"
+  },
+  {
+    "id": 3,
+    "classQty": 15,
+    "time": "06 hrs 30 mnts",
+    "name": "Advance accident investigation & reporting.",
+    "instructor": "Instructor : Anthony James",
+    "newPrice": 12000,
+    "image": "https://i.ibb.co/7GhXsBY/Rectangle-52.png"
+  },
+  {
+    "id": 4,
+    "classQty": 15,
+    "time": "06 hrs 30 mnts",
+    "name": "Process safety for petroleum production.",
+    "instructor": "Instructor : Anthony James",
+    "newPrice": 12000,
+    "image": "https://i.ibb.co/0BnqLRQ/Rectangle-38.png"
+  },
+  {
+    "id": 5,
+    "classQty": 15,
+    "time": "06 hrs 30 mnts",
+    "name": "Advance food hygiene training in catering/manufacturing.",
+    "instructor": "Instructor : Anthony James",
+    "newPrice": 12000,
+    "image": "https://i.ibb.co/jkCWPFL/Rectangle-39.png"
+  },
+  {
+    "id": 6,
+    "classQty": 15,
+    "time": "06 hrs 30 mnts",
+    "name": "Advance accident investigation & reporting.",
+    "instructor": "Instructor : Anthony James",
+    "newPrice": 12000,
+    "image": "https://i.ibb.co/0CGdLm9/Rectangle-40.png"
+  }
+]

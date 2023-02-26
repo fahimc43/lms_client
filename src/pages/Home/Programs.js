@@ -1,6 +1,4 @@
 import React from "react";
-import leftAng from "../../image/leftAng.png";
-import rightAng from "../../image/rightAng.png";
 import laptop from "../../image/laptop.png";
 import Program from "../../components/Program";
 import training from "../../image/training.png";
